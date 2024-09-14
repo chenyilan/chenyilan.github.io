@@ -35,8 +35,9 @@ I am currently pursuing a master’s degree at the School of Computer Science an
   }
 
   .swiper-slide img {
-    width: 100%;
-    height: auto;
+    width: 100%; /* 固定宽度 */
+    height: 100%; /* 固定高度 */
+    object-fit: cover; /* 保持图片比例，填充容器 */
     display: block;
   }
 
