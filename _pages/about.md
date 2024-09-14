@@ -11,6 +11,17 @@ About Me
 =
 I am currently pursuing a master’s degree at the School of Computer Science and Mathematics, Fujian University of Technology. I received my bachelor's degree in Software Engineering from Southwest Minzu University in 2021. My research focuses on applying deep learning to image and video processing, with particular interests in medical image tasks, industrial anomaly detection, and accident recognition.
 
+![Photo 1](images/pic1.jpg)
+![Photo 2](images/pic2.jpg)
+![Photo 3](images/pic3.jpg)
+![Photo 4](images/pic4.jpg)
+![Photo 5](images/pic5.jpg)
+![Photo 6](images/pic6.jpg)
+![Photo 7](images/pic7.jpg)
+![Photo 8](images/pic8.jpg)
+![Photo 9](images/pic9.jpg)
+![Photo 10](images/pic10.jpg)
+![Photo 11](images/pic11.jpg)
 
 <div class="empty-row"></div> <!-- 空行 -->
 <div class="empty-row"></div> <!-- 空行 -->
