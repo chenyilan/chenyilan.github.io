@@ -18,6 +18,8 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     scroll-snap-type: x mandatory;
     gap: 10px; /* 图片之间的间隔 */
     padding: 10px; /* 外边距 */
+    scrollbar-width: thin; /* Firefox 自定义滚动条宽度 */
+    scrollbar-color: #888 #ddd; /* Firefox 自定义滚动条颜色 */
   }
 
   .carousel-container img {
@@ -28,8 +30,22 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     scroll-snap-align: start;
   }
 
+  /* Chrome, Safari 和 Opera */
   .carousel-container::-webkit-scrollbar {
-    display: none; /* 隐藏滚动条 */
+    width: 8px; /* 滚动条宽度 */
+  }
+
+  .carousel-container::-webkit-scrollbar-track {
+    background: #ddd; /* 滚动条背景 */
+  }
+
+  .carousel-container::-webkit-scrollbar-thumb {
+    background: #888; /* 滚动条颜色 */
+    border-radius: 4px; /* 滚动条圆角 */
+  }
+
+  .carousel-container::-webkit-scrollbar-thumb:hover {
+    background: #555; /* 滚动条悬停颜色 */
   }
 </style>
 
