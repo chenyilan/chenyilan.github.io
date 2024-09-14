@@ -15,6 +15,14 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 <div class="empty-row"></div> <!-- 空行 -->
 <div class="empty-row"></div> <!-- 空行 -->
 <div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
 
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <style>
@@ -31,6 +39,8 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     height: 100px; /* 设置一个固定的高度 */
     background-color: #fff; /* 背景颜色 */
     box-shadow: 0 -2px 5px rgba(0,0,0,0.3); /* 可选的阴影效果 */
+    overflow: hidden; /* 隐藏超出容器的部分 */
+    margin: 20px 0; /* 设置上下外边距来创建空行 */
   }
 
   .swiper-wrapper {
@@ -43,7 +53,6 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     align-items: center;
     width: 100px; /* 固定每张图片的宽度 */
     height: 100%; /* 高度填满容器 */
-    padding: 0; /* 移除内边距 */
   }
 
   .swiper-slide img {
@@ -74,7 +83,6 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     <div class="swiper-slide"><img src="images/pic9.jpg" alt="Photo 9" /></div>
     <div class="swiper-slide"><img src="images/pic10.jpg" alt="Photo 10" /></div>
     <div class="swiper-slide"><img src="images/pic11.jpg" alt="Photo 11" /></div>
-    <!-- 添加更多的照片 -->
   </div>
   <!-- 添加分页器 -->
   <div class="swiper-pagination"></div>
@@ -90,7 +98,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     direction: 'horizontal',
     loop: true,
     slidesPerView: 7, /* 一次显示 7 张图片 */
-    spaceBetween: 50, /* 图片之间的间隔 */
+    spaceBetween: 10, /* 图片之间的间隔 */
     autoplay: {
       delay: 3000, // 自动滚动的时间间隔（以毫秒为单位）
     },
