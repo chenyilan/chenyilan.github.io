@@ -71,7 +71,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 </style>
 
 <div class="container">
-  <div class="swiper-title">My Photo</div> <!-- 轮播的标题 -->
+<!--   <div class="swiper-title">My Photo</div> <!-- 轮播的标题 --> -->
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide"><img src="images/pic1.jpg" alt="Photo 1" /></div>
