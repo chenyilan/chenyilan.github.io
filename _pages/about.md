@@ -21,22 +21,27 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 
   .swiper-container {
     width: 100%; /* 改为 100% 以适应父容器的宽度 */
-    height: 90px; /* 根据需要调整 */
+    height: 100px; /* 设置一个固定的高度 */
     background-color: #fff; /* 背景颜色 */
     box-shadow: 0 -2px 5px rgba(0,0,0,0.3); /* 可选的阴影效果 */
+  }
+
+  .swiper-wrapper {
+    display: flex;
   }
 
   .swiper-slide {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%; /* 改为 100% 以适应容器的宽度 */
-    padding: 0 10px; /* 图片之间的间隔 */
+    width: 100px; /* 固定每张图片的宽度 */
+    height: 100%; /* 高度填满容器 */
+    padding: 0; /* 移除内边距 */
   }
 
   .swiper-slide img {
-    width: 100%; /* 固定宽度 */
-    height: 100%; /* 固定高度 */
+    width: 100%; /* 图片宽度填满 slide 容器 */
+    height: 100%; /* 图片高度填满 slide 容器 */
     object-fit: cover; /* 保持图片比例，填充容器 */
     display: block;
   }
@@ -57,7 +62,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     <div class="swiper-slide"><img src="images/pic4.jpg" alt="Photo 4" /></div>
     <div class="swiper-slide"><img src="images/pic5.jpg" alt="Photo 5" /></div>
     <div class="swiper-slide"><img src="images/pic6.jpg" alt="Photo 6" /></div>
-    <div class="swiper-slide"><img src="images/pci7.jpg" alt="Photo 7" /></div>
+    <div class="swiper-slide"><img src="images/pic7.jpg" alt="Photo 7" /></div>
     <div class="swiper-slide"><img src="images/pic8.jpg" alt="Photo 8" /></div>
     <div class="swiper-slide"><img src="images/pic9.jpg" alt="Photo 9" /></div>
     <div class="swiper-slide"><img src="images/pic10.jpg" alt="Photo 10" /></div>
