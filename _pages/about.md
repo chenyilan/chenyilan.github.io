@@ -8,12 +8,25 @@ redirect_from:
 ---
 
 I am currently pursuing a master’s degree at the School of Computer Science and Mathematics, Fujian University of Technology. I received my bachelor's degree in Software Engineering from Southwest Minzu University in 2021. My research focuses on applying deep learning to image and video processing, with particular interests in medical image tasks, industrial anomaly detection, and accident recognition.
+
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <style>
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
   .swiper-container {
-    width: 50%;
-    height: 150px; /* 根据需要调整 */
-    position: relative;
+    width: 30%;
+    height: 90px; /* 根据需要调整 */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #fff; /* 背景颜色 */
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.3); /* 可选的阴影效果 */
   }
 
   .swiper-slide {
@@ -36,7 +49,6 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     margin-bottom: 10px;
   }
 
-  /* Optional: Style pagination and navigation buttons */
   .swiper-pagination-bullet {
     background: #000;
   }
@@ -69,6 +81,9 @@ I am currently pursuing a master’s degree at the School of Computer Science an
   var swiper = new Swiper('.swiper-container', {
     direction: 'horizontal',
     loop: true,
+    autoplay: {
+      delay: 3000, // 自动滚动的时间间隔（以毫秒为单位）
+    },
     pagination: {
       el: '.swiper-pagination',
       clickable: true,
