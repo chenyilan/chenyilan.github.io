@@ -11,8 +11,8 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <style>
   .swiper-container {
-    width: 100%;
-    height: 300px; /* 根据需要调整 */
+    width: 50%;
+    height: 150px; /* 根据需要调整 */
     position: relative;
   }
 
@@ -46,7 +46,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 </style>
 
 <div class="swiper-container">
-  <div class="swiper-title">My Photo Gallery</div> <!-- 轮播的标题 -->
+  <div class="swiper-title">My Photo</div> <!-- 轮播的标题 -->
   <div class="swiper-wrapper">
     <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 1" /></div>
     <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 2" /></div>
