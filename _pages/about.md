@@ -18,10 +18,11 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     scroll-snap-type: x mandatory;
     gap: 10px; /* 图片之间的间隔 */
     padding: 10px; /* 外边距 */
+    white-space: nowrap; /* 防止换行 */
   }
 
   .carousel-container img {
-    flex: 0 0 auto;
+    display: inline-block;
     width: 150px; /* 图片宽度 */
     height: 100px; /* 图片高度 */
     object-fit: cover; /* 保持图片比例 */
