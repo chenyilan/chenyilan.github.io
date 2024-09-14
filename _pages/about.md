@@ -19,7 +19,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     gap: 10px; /* 图片之间的间隔 */
     padding: 10px; /* 外边距 */
     scrollbar-width: thin; /* Firefox 自定义滚动条宽度 */
-    scrollbar-color: #888 #ddd; /* Firefox 自定义滚动条颜色 */
+    scrollbar-color: rgba(136, 136, 136, 0.5) rgba(221, 221, 221, 0.5); /* Firefox 自定义滚动条颜色 */
   }
 
   .carousel-container img {
@@ -36,16 +36,16 @@ I am currently pursuing a master’s degree at the School of Computer Science an
   }
 
   .carousel-container::-webkit-scrollbar-track {
-    background: #ddd; /* 滚动条背景 */
+    background: rgba(221, 221, 221, 0.5); /* 滚动条背景透明度 */
   }
 
   .carousel-container::-webkit-scrollbar-thumb {
-    background: #888; /* 滚动条颜色 */
+    background: rgba(136, 136, 136, 0.5); /* 滚动条颜色透明度 */
     border-radius: 4px; /* 滚动条圆角 */
   }
 
   .carousel-container::-webkit-scrollbar-thumb:hover {
-    background: #555; /* 滚动条悬停颜色 */
+    background: rgba(85, 85, 85, 0.5); /* 滚动条悬停颜色透明度 */
   }
 </style>
 
