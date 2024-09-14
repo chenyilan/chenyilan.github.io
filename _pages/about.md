@@ -22,9 +22,6 @@ I am currently pursuing a master’s degree at the School of Computer Science an
   .swiper-container {
     width: 30%;
     height: 90px; /* 根据需要调整 */
-    position: fixed;
-    bottom: 0;
-    left: 0;
     background-color: #fff; /* 背景颜色 */
     box-shadow: 0 -2px 5px rgba(0,0,0,0.3); /* 可选的阴影效果 */
   }
