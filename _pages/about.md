@@ -60,12 +60,12 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 <div class="swiper-container">
   <div class="swiper-title">My Photo</div> <!-- 轮播的标题 -->
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 1" /></div>
-    <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 2" /></div>
-    <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 3" /></div>
-    <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 4" /></div>
-    <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 5" /></div>
-    <div class="swiper-slide"><img src="images/bio-photo-2.jpg" alt="Photo 6" /></div>
+    <div class="swiper-slide"><img src="images/pic1.jpg" alt="Photo 1" /></div>
+    <div class="swiper-slide"><img src="images/pic2.jpg" alt="Photo 2" /></div>
+    <div class="swiper-slide"><img src="images/pic3.jpg" alt="Photo 3" /></div>
+    <div class="swiper-slide"><img src="images/pic4.jpg" alt="Photo 4" /></div>
+    <div class="swiper-slide"><img src="images/pic5.jpg" alt="Photo 5" /></div>
+    <div class="swiper-slide"><img src="images/pic6.jpg" alt="Photo 6" /></div>
     <!-- 添加更多的照片 -->
   </div>
   <!-- 添加分页器 -->
