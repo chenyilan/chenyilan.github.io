@@ -83,7 +83,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     direction: 'horizontal',
     loop: true,
     slidesPerView: 7, /* 一次显示 7 张图片 */
-    spaceBetween: 10, /* 图片之间的间隔 */
+    spaceBetween: 50, /* 图片之间的间隔 */
     autoplay: {
       delay: 3000, // 自动滚动的时间间隔（以毫秒为单位）
     },
