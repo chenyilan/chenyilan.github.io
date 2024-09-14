@@ -24,8 +24,8 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 
   .carousel-container img {
     flex: 0 0 auto;
-    width: 150px; /* 图片宽度 */
-    height: 100px; /* 图片高度 */
+    width: 200px; /* 图片宽度 */
+    height: 150px; /* 图片高度 */
     object-fit: cover; /* 保持图片比例 */
     scroll-snap-align: start;
   }
