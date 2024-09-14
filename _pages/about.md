@@ -64,6 +64,11 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     <div class="swiper-slide"><img src="images/pic4.jpg" alt="Photo 4" /></div>
     <div class="swiper-slide"><img src="images/pic5.jpg" alt="Photo 5" /></div>
     <div class="swiper-slide"><img src="images/pic6.jpg" alt="Photo 6" /></div>
+    <div class="swiper-slide"><img src="images/pic7.jpg" alt="Photo 7" /></div>
+    <div class="swiper-slide"><img src="images/pic8.jpg" alt="Photo 8" /></div>
+    <div class="swiper-slide"><img src="images/pic9.jpg" alt="Photo 9" /></div>
+    <div class="swiper-slide"><img src="images/pic10.jpg" alt="Photo 10" /></div>
+    <div class="swiper-slide"><img src="images/pic11.jpg" alt="Photo 11" /></div>
     <!-- 添加更多的照片 -->
   </div>
   <!-- 添加分页器 -->
