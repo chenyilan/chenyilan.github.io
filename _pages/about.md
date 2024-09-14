@@ -9,6 +9,11 @@ redirect_from:
 
 I am currently pursuing a master’s degree at the School of Computer Science and Mathematics, Fujian University of Technology. I received my bachelor's degree in Software Engineering from Southwest Minzu University in 2021. My research focuses on applying deep learning to image and video processing, with particular interests in medical image tasks, industrial anomaly detection, and accident recognition.
 
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+<div class="empty-row"></div> <!-- 空行 -->
+
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <style>
   body {
