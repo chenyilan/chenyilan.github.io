@@ -22,10 +22,10 @@ repository               : "AlchemyEmperor/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "./my_pic.png"
-  name             : "Qinghua Lin"
+  name             : "Qinghua Lin (林清华)"
   pronouns         : # example: "she/her"  
   bio              : "I am a graduate student in computer technology of Fujian University of Technology"
-  location         : "China"
+  location         : "China Fujian"
   employer         : "Fujian University of Technology"
   uri              : # URL
   email            : "akametris@163.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "AlchemyEmperor"
+  github           : "https://github.com/AlchemyEmperor"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
