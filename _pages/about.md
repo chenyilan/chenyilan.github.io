@@ -11,6 +11,7 @@ About Me
 =
 I am currently pursuing a master’s degree at the School of Computer Science and Mathematics, Fujian University of Technology. I received my bachelor's degree in Software Engineering from Southwest Minzu University in 2021. My research focuses on applying deep learning to image and video processing, with particular interests in medical image tasks, industrial anomaly detection, and accident recognition.
 
+
 <div class="empty-row"></div> <!-- 空行 -->
 <div class="empty-row"></div> <!-- 空行 -->
 <div class="empty-row"></div> <!-- 空行 -->
@@ -35,8 +36,8 @@ I am currently pursuing a master’s degree at the School of Computer Science an
   }
 
   .swiper-container {
-    width: 100%; /* 改为 100% 以适应父容器的宽度 */
-    height: 100px; /* 设置一个固定的高度 */
+    width: 100%; /* 100% 宽度 */
+    height: 100px; /* 固定高度 */
     background-color: #fff; /* 背景颜色 */
     box-shadow: 0 -2px 5px rgba(0,0,0,0.3); /* 可选的阴影效果 */
     overflow: hidden; /* 隐藏超出容器的部分 */
@@ -45,6 +46,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 
   .swiper-wrapper {
     display: flex;
+    flex-direction: row; /* 确保子元素横向排列 */
   }
 
   .swiper-slide {
@@ -53,6 +55,8 @@ I am currently pursuing a master’s degree at the School of Computer Science an
     align-items: center;
     width: 100px; /* 固定每张图片的宽度 */
     height: 100%; /* 高度填满容器 */
+    padding: 0; /* 移除内边距 */
+    box-sizing: border-box; /* 包括内边距和边框在内 */
   }
 
   .swiper-slide img {
@@ -96,7 +100,7 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 <script>
   var swiper = new Swiper('.swiper-container', {
     direction: 'horizontal',
-    loop: true,
+    loop: true, /* 启用循环模式 */
     slidesPerView: 7, /* 一次显示 7 张图片 */
     spaceBetween: 10, /* 图片之间的间隔 */
     autoplay: {
