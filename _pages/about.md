@@ -11,6 +11,25 @@ About Me
 =
 I am currently pursuing a master’s degree at the School of Computer Science and Mathematics, Fujian University of Technology. I received my bachelor's degree in Software Engineering from Southwest Minzu University in 2021. My research focuses on applying deep learning to image and video processing, with particular interests in medical image tasks, industrial anomaly detection, and accident recognition.
 
+News
+=
+<div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+    这是一个可以上下滑动的文本框。
+
+    你可以在这里添加更多内容。
+
+    内容1
+    内容2
+    内容3
+    内容4
+    内容5
+    内容6
+    内容7
+    内容8
+    内容9
+    内容10
+</div>
+
 My Journey
 =
 <style>
