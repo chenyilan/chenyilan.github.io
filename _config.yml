@@ -21,7 +21,7 @@ repository               : "chenyilan/chenyilan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./image/photo_lan.png"
+  avatar           : "photo_lan.png"
   name             : "Hengrong Lan (兰恒荣)"
   pronouns         : # example: "she/her"  
   bio              : "I am a graduate student in computer technology of Fujian University of Technology"
