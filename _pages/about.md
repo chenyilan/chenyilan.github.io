@@ -17,6 +17,7 @@ Interests
 Deep Learning;
 Photoacoustic Imaging;
 Ultrasound Imaging;
+Image Reconstruction;
 Inverse Problems.
 <br>
 
