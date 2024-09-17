@@ -14,10 +14,10 @@ I received my Ph.D. from the University of the Chinese Academy of Sciences in 20
 
 Interests
 =
-Deep Learning
-Photoacoustic Imaging
-Ultrasound Imaging
-Inverse Problems
+Deep Learning;
+Photoacoustic Imaging;
+Ultrasound Imaging;
+Inverse Problems.
 <br>
 
 News
