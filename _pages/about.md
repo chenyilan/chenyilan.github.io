@@ -15,7 +15,7 @@ I received my Ph.D. from the University of the Chinese Academy of Sciences in 20
 News
 =
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>16-Sep-2024, a paper has been accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6).</li>
 </div>
 <br>
 
@@ -61,14 +61,5 @@ My Journey
 
 <div class="carousel-container">
   <img src="images/pic1.jpg" alt="Photo 1" />
-  <img src="images/pic2.jpg" alt="Photo 2" />
-  <img src="images/pic3.jpg" alt="Photo 3" />
-  <img src="images/pic4.jpg" alt="Photo 4" />
-  <img src="images/pic5.jpg" alt="Photo 5" />
-  <img src="images/pic6.jpg" alt="Photo 6" />
-  <img src="images/pic7.jpg" alt="Photo 7" />
-  <img src="images/pic8.jpg" alt="Photo 8" />
-  <img src="images/pic9.jpg" alt="Photo 9" />
-  <img src="images/pic10.jpg" alt="Photo 10" />
-  <img src="images/pic11.jpg" alt="Photo 11" />
+
 </div>
