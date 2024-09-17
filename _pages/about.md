@@ -9,7 +9,7 @@ redirect_from:
 
 Biography
 =
-I received my Ph.D. from the University of the Chinese Academy of Sciences in 2022 and am currently a postdoctoral researcher in the lab of Professor Jianwen Luo at Tsinghua University. My research focuses on the application of photoacoustic/ultrasound super-resolution imaging technologies and image reconstruction, as well as AI-based image reconstruction methods. To date, I have publicated over 40 papers in international journals and conferences, with more than 1,000 citations on Google Scholar (h-index: 17). I hold 3 national invention patents and have been the principal investigator for two national scientific grants. As the (co-) first author, I have published 11 SCI papers in leading international journals such as Light: Science & Applications, Neural Networks, IEEE Transactions on Computational Imaging, Photoacoustics, IEEE Sensors Journal, IEEE Journal of STQE, Optics Letters, and Biomedical Optics Express. I have also presented over 10 papers at international conferences such as MICCAI, ISBI, EMBC, and IUS.
+I received my Ph.D. from the University of the Chinese Academy of Sciences in 2022. My research focuses on the application of photoacoustic/ultrasound super-resolution imaging technologies and image reconstruction, as well as AI-based image reconstruction methods. To date, I have publicated over 40 papers in international journals and conferences, with more than 1,000 citations on Google Scholar (h-index: 17). I hold 3 national invention patents and have been the principal investigator for two national scientific grants. As the (co-) first author, I have published 11 SCI papers in leading international journals such as Light: Science & Applications, Neural Networks, IEEE Transactions on Computational Imaging, Photoacoustics, IEEE Sensors Journal, IEEE Journal of STQE, Optics Letters, and Biomedical Optics Express. I have also presented over 10 papers at international conferences such as MICCAI, ISBI, EMBC, and IUS.
 <br>
 
 Interests
@@ -25,22 +25,12 @@ News
 =
 <li>  A special issue is accepting submissions: https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography </li>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
-    <li>July 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
-    <li>Jun. 2024, We attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
-    <li>May 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
-</div>
-<div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>July. 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
-</div>
-<div style="width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>Jun. 2024, We attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
-</div>
-
- <div style="width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>May 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
-</div>
- 
+    <li> Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
+    <li> July 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
+    <li> Jun. 2024, We attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
+    <li> Sep. 2022, I have joined Tsinghua University as the postdoctoral fellow, working with Prof. Jianwen Luo.</li>
+    <li> May 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
+</div> 
 <br>
 
 Gallery
