@@ -23,6 +23,7 @@ Inverse Problems.
 
 News
 =
+A special issue is accepting submissions: https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
     <li>16-Sep-2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
 </div>
