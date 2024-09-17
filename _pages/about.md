@@ -30,9 +30,6 @@ News
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
     <li>July. 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
 </div>
-<div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>July. 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
-</div>
  <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
     <li>Jun. 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
 </div>
