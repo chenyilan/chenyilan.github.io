@@ -25,14 +25,21 @@ News
 =
 <li>  A special issue is accepting submissions: https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography </li>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>16-Sep-2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
+    <li>Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
 </div>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
-    <li>5-July-2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
+    <li>July. 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
 </div>
+<div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
+    <li>July. 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
+</div>
+ <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
+    <li>Jun. 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
+</div>
+ 
 <br>
 
-My Journey
+Gallery
 =
 <style>
   .carousel-container {
