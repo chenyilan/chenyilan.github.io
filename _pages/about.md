@@ -26,9 +26,11 @@ News
 <li>  A special issue is accepting submissions: https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography </li>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px;">
     <li> Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
+    <li> Aug. 2024, I received a grant from Natural Science Foundation of China. (No. 62401323).</li>
     <li> July 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
     <li> Jun. 2024, We attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
-    <li> Sep. 2022, I have joined Tsinghua University as the postdoctoral fellow, working with Prof. Jianwen Luo.</li>
+    <li> Aug. 2023, I was awarded a fellowship from the China Postdoctoral Science Foundation (No. 2023M741988).</li>
+    <li> Sep. 2022, I have joined Tsinghua University as the postdoctoral fellow (supported by huiyan funding), working with Prof. Jianwen Luo.</li>
     <li> May 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
 </div> 
 <br>
