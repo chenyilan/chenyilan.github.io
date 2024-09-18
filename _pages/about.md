@@ -23,7 +23,7 @@ Interests
 
 News
 =
-<li>  A special issue is accepting submissions at </li> [here](https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography). 
+<li>  A special issue is accepting submissions at [here](https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography).  </li>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 5px;font-size: 16px; line-height:2">
     <li> Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
     <li> Aug. 2024, I received a grant from Natural Science Foundation of China (No. 62401323).</li>
