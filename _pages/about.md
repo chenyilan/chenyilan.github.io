@@ -28,7 +28,7 @@ News
     <li> Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
     <li> Aug. 2024, I received a grant from Natural Science Foundation of China (No. 62401323).</li>
     <li> July 2024, one paper was accepted by <span style="color: red;">Neural Networks</span> (IF:6, JCR Q1).</li>
-    <li> Jun. 2024, We attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
+    <li> Jun. 2024, we attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
     <li> Aug. 2023, I was awarded a fellowship from the China Postdoctoral Science Foundation (No. 2023M741988).</li>
     <li> Sep. 2022, I have joined Tsinghua University as the postdoctoral fellow (supported by huiyan funding), working with Prof. Jianwen Luo.</li>
     <li> May 2022, I have passed the oral defense, and obtained doctoral degree. Congrats me! !</li>
