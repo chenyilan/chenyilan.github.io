@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: red;">I am looking for an academic job. Feel free to reach out if there is a good fit!</span> 
+<span style="color: red;">I am currently seeking an academic position. Please feel free to reach out if you think there might be a good fit!</span> 
 
 Biography
 =
