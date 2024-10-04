@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color: red;">I am looking for an academic job. Feel free to reach out if there is a good fit!</span> 
+
 Biography
 =
 I received my Ph.D. from the University of the Chinese Academy of Sciences in 2022. My research focuses on the application of photoacoustic/ultrasound super-resolution imaging technologies and image reconstruction, as well as AI-based image reconstruction methods. To date, I have publicated over 40 papers in international journals and conferences, with more than 1,000 citations on Google Scholar (h-index: 17). I hold 3 national invention patents and have been the principal investigator for two national scientific grants. As the (co-) first author, I have published 11 SCI papers in leading international journals such as Light: Science & Applications, Neural Networks, IEEE Transactions on Computational Imaging, Photoacoustics, IEEE Sensors Journal, IEEE Journal of STQE, Optics Letters, and Biomedical Optics Express. I have also presented over 10 papers at international conferences such as MICCAI, ISBI, EMBC, and IUS.
