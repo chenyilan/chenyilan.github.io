@@ -34,7 +34,7 @@ News
     <li> Jun. 2024, we attended IEEE ISBI 2024 in Athens, Greece, and presented six works.</li>
     <li> Aug. 2023, I was awarded a fellowship from the China Postdoctoral Science Foundation (No. 2023M741988).</li>
     <li> Sep. 2022, I have joined Tsinghua University as the postdoctoral fellow (supported by huiyan funding), working with Prof. Jianwen Luo.</li>
-    <li> May 2022, I have passed the thesis defense, and obtained doctoral degree. Congrats me! !</li>
+    <li> May 2022, I have passed the thesis defense, and obtained doctoral degree. 🎉 Congrats! !</li>
 </div> 
 <br>
 
