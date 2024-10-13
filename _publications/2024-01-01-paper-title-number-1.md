@@ -5,7 +5,7 @@ venue:
 citation:
 ---
 
-<img src="../images/journal.png" alt="Alt text" width="40" height="40"> **Hengrong Lan**, Lijie Huang, Xingyue Wei, Zhiqiang Li, Jing Lv, Cheng Ma, Liming Nie, and Jianwen Luo*. Masked cross-domain self-supervised deep learning framework for photoacoustic computed tomography reconstruction. **Neural Networks**, 11/2024, doi: /10.1016/j.neunet.2024.106515.
+<img src="../images/journal.png" alt="Alt text" width="30" height="30"> **Hengrong Lan**, Lijie Huang, Xingyue Wei, Zhiqiang Li, Jing Lv, Cheng Ma, Liming Nie, and Jianwen Luo*. Masked cross-domain self-supervised deep learning framework for photoacoustic computed tomography reconstruction. **Neural Networks**, 11/2024, doi: /10.1016/j.neunet.2024.106515.
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0893608024004398" target="_blank">
   <img src="../images/PDF.png" alt="URL" width="30" height="30" style="display: inline-block; margin-right: 10px;"></a>
