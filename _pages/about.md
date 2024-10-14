@@ -25,7 +25,7 @@ Interests
 
 News
 =
-<li>  A special issue is accepting submissions at <a href="https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography" target="_blank">here</a >.</li>
+<li>  💡 A special issue is accepting submissions at <a href="https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography" target="_blank">here</a >.</li>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 5px;font-size: 16px; line-height:2">
     <li> Sep. 2024, I presented an talk at BME2024 in Shenzhen.</li>
     <li> Sep. 2024, one paper was accepted by <span style="color: red;">Light: Science & Applications</span> (IF:20.6, JCR Q1).</li>
