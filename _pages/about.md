@@ -17,8 +17,8 @@ I received my Ph.D. from the University of the Chinese Academy of Sciences in 20
 Interests
 =
 <li> Deep Learning </li>
-<li> Photoacoustic Imaging </li>
-<li> Ultrasound Imaging </li>
+<li> Photoacoustic Computed Tmography </li>
+<li> Ultrasound Microvascular Imaging </li>
 <li> Image Reconstruction </li>
 <li> Inverse Problems </li>
 <br>
