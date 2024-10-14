@@ -16,11 +16,11 @@ I received my Ph.D. from the University of the Chinese Academy of Sciences in 20
 
 Interests
 =
-<li> Medical Image Analysis </li>
 <li> Photoacoustic Computed Tmography </li>
 <li> Ultrasound Microvascular Imaging </li>
 <li> Image Reconstruction </li>
 <li> Inverse Problems </li>
+<li> Medical Image Analysis </li>
 <br>
 
 News
