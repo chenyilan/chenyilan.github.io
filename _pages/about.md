@@ -16,7 +16,7 @@ I received my Ph.D. from the University of the Chinese Academy of Sciences in 20
 
 Interests
 =
-<li> Photoacoustic Computed Tmography </li>
+<li> Photoacoustic Computed Tomography </li>
 <li> Ultrasound Microvascular Imaging </li>
 <li> Image Reconstruction </li>
 <li> Inverse Problems </li>
