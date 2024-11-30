@@ -24,7 +24,7 @@ author:
   avatar           : "bio_photo3.png"
   name             : "Hengrong Lan (兰恒荣)"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctral fellow in School of of Biomedical Engineering, Tsinghua University"
+  bio              : #"Postdoctral fellow in School of of Biomedical Engineering, Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
