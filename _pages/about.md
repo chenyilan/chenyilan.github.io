@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <span style="color: red;">I am currently seeking an academic position. Please feel free to reach out if you think there might be a good fit!</span> -->
+ <span style="color: red;">We are looking for intern-student. If you are interested with joining us, contact me or Dr. Fei Gao (fgao@ustc.edu.cn) </span> 
 
 Biography
 =
