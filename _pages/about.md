@@ -28,6 +28,7 @@ News
 =
 <li>  💡 A special issue is accepting submissions at <a href="https://www.sciencedirect.com/journal/photoacoustics/about/call-for-papers#deep-learning-algorithms-for-quantitative-optoacoustic-tomography" target="_blank">here</a >.</li>
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 5px;font-size: 16px; line-height:2">
+    <li> May 2025,I have been awarded the 2024 Top Scholar on Tomography (Prior 5 Years) by ScholarGPS
     <li> Jan. 2025, I have joined University of Science and Technology of China, School of Biomedical Engineering (Suzhou Institute of Advanced Research), as the Associate Researcher.</li>
     <li> Oct. 2024, one paper was accepted by <span style="color: red;">IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</span> (IF:3, JCR Q1).</li>
     <li> Sep. 2024, I presented an talk at BME2024 in Shenzhen.</li>
